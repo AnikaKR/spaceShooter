@@ -28,7 +28,7 @@ The classic Retro Game recreated using `Pygame` and `python`.
 
 ## Demo
 
-[[Back to top]](https://github.com/tasdikrahman/spaceShooter#index)
+[[Back to the top]](https://github.com/tasdikrahman/spaceShooter#index)
 
 follow the Youtube video to see How I fared on ``spaceShooter`` a b c d
 
